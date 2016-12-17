@@ -1,0 +1,38 @@
+body{
+  background-color: white;
+}
+
+.boxmodel {
+  max-width: 600px;
+  align-items: center;
+
+}
+
+.boxmodel img {
+  align: center;
+  max-width: 300px
+
+}
+
+.draftlist {
+  margin-left: 5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black;
+
+}
+
+.draftlist ol li
+.draftlist ol a {
+  margin: 1px;
+  padding: 10px; color: red;
+  border-width: 5px; color: green;
+}
+
+.draftlist17 {
+  margin-left: 5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black;
+
+}
